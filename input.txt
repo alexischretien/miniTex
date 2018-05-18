@@ -1,0 +1,14 @@
+\section{Presentation}{presentation}
+Vous allez construire un programme traduisant un texte d un langage a l autre \ref{schema_complet}.
+Ce programme utilisera des contraintes normales \ref{contraintes}.
+Une description du logiciel suit \ref{description}.
+\figure{Description complete du logiciel}{schema_complet}
+\table{Les contraintes a respecter}{contraintes}
+\section{Description du programme}{description}
+\figure{Exemple d entrees}{texte_exemple1}
+\figure{Exemple de sorties}{texte_exemple2}
+Ce programme devra prendre en entrees un texte \ref{texte_exemple1} et le traduira en autre texte \ref{texte_exemple2}.
+\section{Conclusion}{conclusion}
+N oubliez pas les contraintes \ref{contraintes}.
+Le projet sera evaluer sur un gabarit commun \ref{gabarit}.
+\table{Evaluation}{gabarit}
