@@ -1,0 +1,14 @@
+Section 1 : Presentation
+Vous allez construire un programme traduisant un texte d un langage a l autre (voir la Figure 1.1).
+Ce programme utilisera des contraintes normales (voir la Table 1.1).
+Une description du logiciel suit (voir la Section 2).
+Figure 1.1 : Description complete du logiciel
+Table 1.1 : Les contraintes a respecter
+Section 2 : Description du programme
+Figure 2.1 : Exemple d entrees
+Figure 2.2 : Exemple de sorties
+Ce programme devra prendre en entrees un texte (voir la Figure 2.1) et le traduira en autre texte (voir la Figure 2.2).
+Section 3 : Conclusion
+N oubliez pas les contraintes (voir la Table 1.1).
+Le projet sera evaluer sur un gabarit commun (voir la Table 3.1).
+Table 3.1 : Evaluation
